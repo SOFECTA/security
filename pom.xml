@@ -54,7 +54,7 @@
   </licenses>
 
   <properties>
-    <opendistro_security_ssl.version>0.7.0.1</opendistro_security_ssl.version>
+    <opendistro_security_ssl.version>0.10.0.0</opendistro_security_ssl.version>
     <opendistro_security_advanced_modules.version>0.7.0.1</opendistro_security_advanced_modules.version>
     <elasticsearch.version>6.5.4</elasticsearch.version>
     
